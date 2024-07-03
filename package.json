@@ -1,0 +1,35 @@
+{
+  "name": "quick-opgg-scraper",
+  "version": "1.0.0",
+  "description": "Fast OPGG Scraper for League of Legends stats ⚡ Quick OP.GG Scraper",
+  "main": "main.js",
+  "types": "main.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rico-vz/quick-opgg-scraper.git"
+  },
+  "keywords": [
+    "opgg",
+    "opgg-scraper",
+    "league-of-legends",
+    "leagueoflegends",
+    "axios",
+    "cheerio",
+    "scraper",
+    "leagueoflegends-scraper"
+  ],
+  "author": "Rico van Zelst",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rico-vz/quick-opgg-scraper/issues"
+  },
+  "homepage": "https://github.com/rico-vz/quick-opgg-scraper#readme",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "cheerio": "^1.0.0-rc.12",
+    "node-cache": "^5.1.2"
+  }
+}
