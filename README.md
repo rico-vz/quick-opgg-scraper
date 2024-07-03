@@ -1,2 +1,2 @@
-# quick-opgg-scraper
-Quick OP.GG Scraper ⚡ Fast OPGG Scraper for League of Legends stats
+# ⚡ Quick OP.GG Scraper
+### A fast OPGG Scraper for League of Legends stats
